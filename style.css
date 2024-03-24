@@ -499,6 +499,9 @@ figure .bloco{
     margin-right: 2.3vw;
     font-size: clamp(1rem, 1.3vw, 2.4rem);
 }
+.conteudo-1 ul a:hover{
+    opacity: 0.7;
+}
 .botões-05 li{
     margin: 15px 0px;
 }
@@ -548,6 +551,9 @@ figure .bloco{
 }
 #botão-6{
     margin-top: 10px;
+}
+#botão-6:hover{
+    opacity: 0.7;
 }
 .bottom a{
     border: 1px solid #03c0c1;
@@ -714,6 +720,9 @@ figure .bloco{
 }
 .rodape ul a{
     text-decoration: none;
+}
+.rodape ul a:hover{
+    color: #03c0c1;
 }
 #linha-3{
     border: 1px solid #03c0c1;
